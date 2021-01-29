@@ -6,7 +6,7 @@ const Home = () => (
     <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
 
     <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
-
+    <p>This is a test of the emergency broadcasting system to see how fast this deploys to Netlify. - Benjamin</p>
     <style jsx>{`
       :global(html,body) {
         margin: 0;
